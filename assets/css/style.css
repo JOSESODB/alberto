@@ -11,3 +11,9 @@
         transform: rotate(360deg);
     }
 }
+
+
+#view-details-btn {
+    background-color: #2F1917;
+    color: white;
+}
